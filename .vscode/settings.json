@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 17,
+    "window.zoomLevel": 2
+}
